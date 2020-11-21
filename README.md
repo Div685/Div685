@@ -1,6 +1,6 @@
 ## Hi there, I'm Divyesh 👋 :man:&zwj;💻
 
-![image](./img.jpg)
+<!--![image](./img.jpg) -->
 
 I'm a software engineer && Full-stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Python, Flutter, HTML, CSS.
 
