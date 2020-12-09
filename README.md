@@ -21,5 +21,5 @@ I'm a software engineer && Full-stack Developer who is passionate about making o
 
 ## Find me around the web :earth_africa:: 
    - [Twitter](https://twitter.com/div_685)
-   - [LinkedIn](https://www.linkedin.com/in/divyesh-patel-2a15a6107)
+   - [LinkedIn](https://www.linkedin.com/in/divyesh-daxa-patel/)
  
