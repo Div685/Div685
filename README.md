@@ -1,13 +1,13 @@
-## Hi there, I'm [Divyesh](https://www.linkedin.com/in/divyesh-patel-2a15a6107) 👋 :man:&zwj;💻
+## Hi there, I'm [Divyesh](https://divyesh-55183.web.app/) 👋 :man:&zwj;💻
 
 <!--![image](./img.jpg) -->
 
-I'm a software engineer && Full-stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Ruby, Python, Flutter, HTML, CSS.
+I'm a software engineer & full-stack developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Ruby, Python, Flutter, HTML, CSS.
 
 - 🔭 I’m currently working as Freelance Developer
 - 🌱 I’m currently learning Ruby on Rails.
-- 👯 I’m looking to collaborate with other Developers.
-- ⚡ Fun fact: I Love Playing cricket && Football
+- 👯 I’m looking to collaborate with other developers.
+- ⚡ Fun fact: I love playing cricket && football
 - 💻 I'm looking for a new opportunies
 
 ### Github Stats
