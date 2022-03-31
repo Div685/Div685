@@ -17,7 +17,6 @@ I'm a software engineer and full-stack developer who is passionate about making 
 
 
 
-<img src="./div.png" align="left" width=150 height=150 /> 
 
 ## Find me around the web :earth_africa:: 
    - [Twitter](https://twitter.com/div_685)
